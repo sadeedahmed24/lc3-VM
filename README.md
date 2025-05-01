@@ -4,6 +4,9 @@ This project implements a minimal LC-3 virtual machine in C, capable of running 
 
 ## 🕹️ How to Run the Game
 
+## Download the main.c and 2048.obj files into one folder. 
+## Open your terminal and go to the said folder containing these two files and follow the steps below:
+
 ### 1. Compile the LC-3 VM
 Use `clang` or `gcc` to compile the VM:
 
